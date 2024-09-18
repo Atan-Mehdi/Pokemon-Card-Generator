@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.6/axios.min.js"></script>
+    <link href="https://fonts.cdnfonts.com/css/pokemon-solid" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/pok" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="poke.png">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <!-- <div class="background"></div> -->
+
+    <div class="content">
+        <div class="heading">
+            Welcome to Pokemon Card Generator
+        </div>
+        <div class="userInput">
+            <div class="dropdown">
+                <input type="text" id='category' placeholder="category number">
+                <div id="dropdownList" class="dropdown-content">
+
+                </div>
+            </div>
+            <input type="text" id='numberofcards' placeholder="number of cards">
+            <button onclick="displayCards()">Generate</button>
+        </div>
+
+        <div class="cards-container">
+
+        </div>
+
+    </div>
+    <div class="footer">
+        <div>Made with Love by Atan.</div>
+        <div class="social-icons">
+            <a href="https://www.instagram.com/username_atan" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.twitter.com/atan_mehdi" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/atan-mehdi-7261071bb" target="_blank"><i
+                    class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/Atan-Mehdi" target="_blank"><i class="fab fa-github"></i></a>
+
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
