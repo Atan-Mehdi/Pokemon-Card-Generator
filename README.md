@@ -26,6 +26,10 @@ Welcome to the Pokémon Card Generator! This web application allows users to gen
     ```
 3. Open `index.html` in your web browser.
 
+## Screenshots
+![screenshot1](https://github.com/Atan-Mehdi/Background-Color-Changer/blob/main/Screenshot%202024-09-09%20204237.png)
+![screenshot1](https://github.com/Atan-Mehdi/Background-Color-Changer/blob/main/Screenshot%202024-09-09%20204410.png)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please submit a pull request or open an issue.
