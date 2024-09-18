@@ -260,6 +260,11 @@ button:active {
         width: 90%;
 
     }
+    .dropdown-content {
+
+        min-width: 180px;
+        max-height: 250px;
+    }
 
     .footer {
         margin-top: 80%;
