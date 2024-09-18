@@ -28,7 +28,7 @@ Welcome to the Pokémon Card Generator! This web application allows users to gen
 
 ## Screenshots
 ![screenshot1](https://github.com/Atan-Mehdi/Pokemon-Card-Generator/blob/main/ss_1.png)
-![screenshot1](https://github.com/Atan-Mehdi/Pokemon-Card-Generator/blob/main/ss_1.png)
+![screenshot1](https://github.com/Atan-Mehdi/Pokemon-Card-Generator/blob/main/ss_2.png)
 
 ## Contributing
 
