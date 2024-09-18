@@ -27,8 +27,8 @@ Welcome to the Pokémon Card Generator! This web application allows users to gen
 3. Open `index.html` in your web browser.
 
 ## Screenshots
-![screenshot1](https://github.com/Atan-Mehdi/Background-Color-Changer/blob/main/Screenshot%202024-09-09%20204237.png)
-![screenshot1](https://github.com/Atan-Mehdi/Background-Color-Changer/blob/main/Screenshot%202024-09-09%20204410.png)
+![screenshot1](https://github.com/Atan-Mehdi/Pokemon-Card-Generator/blob/main/ss_1.png)
+![screenshot1](https://github.com/Atan-Mehdi/Pokemon-Card-Generator/blob/main/ss_1.png)
 
 ## Contributing
 
